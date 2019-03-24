@@ -6,7 +6,7 @@ VALADEPS = 'gio-2.0'
 PCDEPS = 'gio-2.0'
 
 API_VERSION = '0.8'
-PROJECT_VERSION = '0.20.0'
+PROJECT_VERSION = '0.20.1'
 
 conf = configuration_data()
 conf.set('prefix', get_option('prefix'))
